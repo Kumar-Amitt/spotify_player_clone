@@ -735,7 +735,6 @@ class SongData {
   }
 ]
 """;
-
   List data = jsonDecode(songJSON);
 
   SongData() {
